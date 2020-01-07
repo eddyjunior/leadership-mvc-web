@@ -4,7 +4,7 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Leadership.Models;
+using Leadership.Models.ViewModels;
 
 namespace Leadership.Controllers
 {
